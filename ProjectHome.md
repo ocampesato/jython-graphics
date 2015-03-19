@@ -1,0 +1,1 @@
+This project contains some graphics samples that illustrate how to create various two-dimensional shapes, such as rectangles, ellipses, and Bezier curves.
